@@ -5,6 +5,10 @@ VisualStudioVersion = 17.13.35806.99 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReuseApp", "ReuseApp.csproj", "{38BC7AC4-6077-4624-8DB7-3CFDA30B1DAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reuse_API", "..\Reuse_API\Reuse_API.csproj", "{E87E5E31-2F3B-4319-B30D-638FE269B040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "..\ClassLibrary1\ClassLibrary1.csproj", "{77D329A1-CC40-4F6D-88A5-F9F0FFAD185B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{38BC7AC4-6077-4624-8DB7-3CFDA30B1DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38BC7AC4-6077-4624-8DB7-3CFDA30B1DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38BC7AC4-6077-4624-8DB7-3CFDA30B1DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87E5E31-2F3B-4319-B30D-638FE269B040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87E5E31-2F3B-4319-B30D-638FE269B040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87E5E31-2F3B-4319-B30D-638FE269B040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E87E5E31-2F3B-4319-B30D-638FE269B040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D329A1-CC40-4F6D-88A5-F9F0FFAD185B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D329A1-CC40-4F6D-88A5-F9F0FFAD185B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D329A1-CC40-4F6D-88A5-F9F0FFAD185B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D329A1-CC40-4F6D-88A5-F9F0FFAD185B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
